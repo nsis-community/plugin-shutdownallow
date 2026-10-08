@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 
 /**
     ShutdownAllow v0.1 by Afrow UK
